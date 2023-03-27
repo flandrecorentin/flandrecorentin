@@ -18,8 +18,8 @@
 
 - [![Pedagogical Spreadsheet](./assets/link-icon.png)](https://github.com/flandrecorentin/) Pedagogical Spreadsheet: an application dealing with spreadsheets for learning scientific tools
 - [![Portfolio](./assets/link-icon.png)](https://flandrecorentin.github.io/) Portfolio/Web-site: Site web permettant de découvrir tout mon univers (parcours, projets, hobbies...)
-- [![Portfolio](./assets/link-icon.png)](https://flandrecorentin.github.io/) Deliverapp : application for managing delivery drivers and their parcel delivery rounds 
-- Miniged: Web application of a simplistic DMS allowing to store documents and metadata | realized during an internship -> the source code is confidential
+- [![Deliverapp](./assets/link-icon.png)](https://github.com/flandrecorentin/Deliverapp) Deliverapp : application for managing delivery drivers and their parcel delivery rounds 
+-  [![Miniged](./assets/link-icon.png)](https://github.com/flandrecorentin/miniged) Miniged: Web application of a simplistic DMS allowing to store documents and metadata
 - etc.
 
 
