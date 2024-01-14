@@ -16,10 +16,11 @@ I pursued my education in computer science at INSA Lyon (France) and Kungliga Te
 
 - [![AperitIF](./assets/link-icon.png)](https://alexisreis.github.io/AperitIF/) AperitIF - fun cocktail and alcohol suggestions app made with friends for Web 3.0
 
-- [![Portfolio](./assets/link-icon.png)](https://flandrecorentin.github.io/) Portfolio - with pictures and more details
+- [![Portfolio](./assets/link-icon.png)](https://flandrecorentin.github.io/) Portfolio - with pictures and more details on all my projects and hobbies
 
 - [![Pedagogical Spreadsheet](./assets/link-icon.png)](https://github.com/flandrecorentin/) Pedagogical Spreadsheet [not yet finished] - dealing with spreadsheets for learning scientific tools
 
+- etc.
 
 ## Experiences 
 
@@ -35,9 +36,9 @@ Large-scale software that manages Purchasing, Finance and Data of the Decathlon 
 ---
 
 <!-- Found on the garimasingh128 github user's profile -->
-<!-- <p align="center"> 
+<p align="center"> 
   Clicks on my profile counter<br>
   <img src="https://profile-counter.glitch.me/flandrecorentin/count.svg" />
-</p> -->
+</p>
 
 Don't hesitate to reach me if you are interested in my profile : flandrecorentin@gmail.com
